@@ -26,8 +26,8 @@ const resolvedImageWithDomain = new URL(
 const { title } = Astro.props;
 
 const makeTitle = title
-  ? title + " | " + "NectarHub"
-  : "NectarHub: The Future of technology";
+  ? title + " | " + "NectarGPT Powered by ChatGPT"
+  : "NectarGPT - AI Assistant Chrome Extension Powered by ChatGPT";
 ---
 
 <!DOCTYPE html>
@@ -41,7 +41,7 @@ const makeTitle = title
     <!-- <link rel="preload" as="image" href={src} alt="Hero" /> -->
     <SEO
       title={makeTitle}
-      description="Unleash a world of adventure with NectarHub - the blockchain-powered game that combines collectibles and strategy for a truly unique experience. Join now!"
+      description="Maximize productivity with NectarGPT, the AI assistant Chrome extension that helps you tackle any task. Get personalized recommendations and support powered by ChatGPT's advanced language model."
       canonical={canonicalURL}
       twitter={{
         creator: "@officialsphrex",
@@ -52,11 +52,11 @@ const makeTitle = title
         basic: {
           url: canonicalURL,
           type: "website",
-          title: `NectarHub: The Future of technology`,
+          title: `NectarGPT - AI Assistant Chrome Extension Powered by ChatGPT`,
           image: resolvedImageWithDomain,
         },
         image: {
-          alt: "NectarHub: The Future of technology",
+          alt: "NectarGPT - AI Assistant Chrome Extension Powered by ChatGPT",
         },
       }}
     />
