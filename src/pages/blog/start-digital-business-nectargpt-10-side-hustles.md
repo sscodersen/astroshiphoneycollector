@@ -1,7 +1,7 @@
 ---
 title: "How to Start a Digital Business with NectarGPT: 10 Side Hustles You Can Begin Today"
 excerpt: "NectarGPT is a powerful AI tool that can help you start a digital business by providing a whole host of tools for free. With its advanced natural language processing and machine learning algorithms, NectarGPT is expected to replace 4.5 million U.S. jobs in the near future. Here are 10 side hustles you can start today with NectarGPT for $0."
-publishDate: "2023-11-04T15:39:36.050Z"
+publishDate: "2023-04-11T15:39:36.050Z"
 image: "https://images.unsplash.com/photo-1679639539537-0d2e452890f7?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1332&q=80"
 category: "Tutorials"
 author: "Sphrex+"

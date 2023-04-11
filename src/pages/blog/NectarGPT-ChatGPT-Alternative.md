@@ -1,7 +1,7 @@
 ---
 title: "NectarGPT-3: The Latest Breakthrough in AI Language Models and Its Potential Impact on Every Industry"
 excerpt: "NectarGPT-3 is the latest breakthrough in AI language models that is changing the game for productivity and communication. As a Chrome extension, it has the potential to impact every industry by enabling users to communicate more effectively and automate repetitive tasks. NectarGPT-3 uses advanced natural language processing and machine learning algorithms to understand user input and generate high-quality responses and suggestions. With its ability to learn from previous interactions and context, NectarGPT-3 can quickly become an invaluable assistant for email management, inbox organization, and shortcut creation. In this article, we'll explore the potential impact of NectarGPT-3 on various industries and how it can transform the way we work and communicate."
-publishDate: "2022-03-05T11:39:36.050Z"
+publishDate: "2023-04-11T15:39:36.050Z"
 image: "https://images.unsplash.com/photo-1593720213428-28a5b9e94613?&fit=crop&w=430&h=240"
 category: "NectarGPT"
 author: "Matt reid"

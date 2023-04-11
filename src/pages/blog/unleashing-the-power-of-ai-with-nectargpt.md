@@ -1,7 +1,7 @@
 ---
 title: "Unleashing the Power of AI: The Must-Have Chrome Extension for Every Professional with NectarGPT"
 excerpt: "Discover the future of productivity and communication with NectarGPT, the groundbreaking AI chrome extension. Automate repetitive tasks, communicate more effectively, and unlock new ways to make money. Join the AI revolution and try NectarGPT today!"
-publishDate: "2023-10-04T15:39:36.050Z"
+publishDate: "2023-04-11T15:39:36.050Z"
 image: "https://images.unsplash.com/photo-1678957949479-b1e876bee3f1?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1330&q=80"
 category: "Tutorials"
 author: "Matt Reid"
