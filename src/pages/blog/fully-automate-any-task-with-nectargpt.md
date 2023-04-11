@@ -25,4 +25,4 @@ Coding: Whether you need to generate code for a website or an app, NectarGPT can
 
 And much more: From social media management to online tutoring, NectarGPT can automate any task you throw its way. The possibilities are endless.
 
-So why wait? Join the AI revolution and start fully automating your tasks with NectarGPT today. Visit our website to learn more and get started.
+[So why wait? Join the AI revolution and start fully automating your tasks with NectarGPT today. Visit our website to learn more and get started.](https://github.com/socialtribexyz/nectarGPT)
