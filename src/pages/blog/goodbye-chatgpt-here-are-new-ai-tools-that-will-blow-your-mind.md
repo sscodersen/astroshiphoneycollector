@@ -29,16 +29,16 @@ Hugging Face Transformers
 
 Hugging Face Transformers is a library of pre-trained language models that can perform a wide range of NLP tasks. Like ChatGPT and GPT-3, it's capable of generating text and answering questions, but it can also do things like sentiment analysis and language translation. And because it's an open-source library, anyone can use it to create their own NLP models.
 
-[NectarGPT
+[NectarGPT](https://www.nectarhub.xyz/)
 
-Automated tasks: NectarGPT allows you to fully automate any task from your Chrome browser using prompts. This includes tasks such as scheduling emails, setting reminders, and even generating reports.
+[Automated tasks: NectarGPT allows you to fully automate any task from your Chrome browser using prompts. This includes tasks such as scheduling emails, setting reminders, and even generating reports.](https://www.nectarhub.xyz/)
 
-In-tab chat: NectarGPT includes an in-tab chat feature that allows you to chat with the AI bot while you work. This is especially useful when you need quick answers or assistance with a task.
+[In-tab chat: NectarGPT includes an in-tab chat feature that allows you to chat with the AI bot while you work. This is especially useful when you need quick answers or assistance with a task.](https://www.nectarhub.xyz/)
 
-Voice commands: You can use NectarGPT's voice command feature to dictate tasks or messages directly into your browser. This is a great way to save time and avoid typing errors.
+[Voice commands: You can use NectarGPT's voice command feature to dictate tasks or messages directly into your browser. This is a great way to save time and avoid typing errors.](https://www.nectarhub.xyz/)
 
-Source file ability: With NectarGPT, you can easily access and manipulate source files for any task. This is particularly useful for tasks that involve data analysis or code editing.
+[Source file ability: With NectarGPT, you can easily access and manipulate source files for any task. This is particularly useful for tasks that involve data analysis or code editing.](https://www.nectarhub.xyz/)
 
-AI-powered suggestions: NectarGPT uses AI to suggest actions and solutions based on your past interactions with the tool. This means that over time, NectarGPT becomes more personalized and efficient at assisting you with your tasks.](https://www.nectarhub.xyz/)
+[AI-powered suggestions: NectarGPT uses AI to suggest actions and solutions based on your past interactions with the tool. This means that over time, NectarGPT becomes more personalized and efficient at assisting you with your tasks](https://www.nectarhub.xyz/)
 
-These are just a few examples of the latest and greatest AI tools that are currently available. While ChatGPT is still an impressive tool, it's clear that AI is rapidly advancing, and new tools are emerging all the time. So if you're looking for the next big thing in AI, keep an eye on these new tools. They're sure to blow your mind.
+[These are just a few examples of the latest and greatest AI tools that are currently available. While ChatGPT is still an impressive tool, it's clear that AI is rapidly advancing, and new tools are emerging all the time. So if you're looking for the next big thing in AI, keep an eye on these new tools. They're sure to blow your mind.](https://www.nectarhub.xyz/)
