@@ -9,7 +9,7 @@ layout: "@layouts/BlogLayout.astro"
 tags: [AI, chatgpt, NectarGPT, AGI]
 ---
 
-[In the world of artificial intelligence, NectarGPT is the new kid on the block that's quickly making waves. Developed by OpenAI, NectarGPT is an autonomous writing assistant that promises to revolutionize the way we write, communicate, and work. In this blog post, we'll explore the capabilities of NectarGPT and show you how this next-generation AI tool can help you 10x your productivity, drive traffic to your site, and grow your business.](https://github.com/socialtribexyz/nectarGPT)
+[In the world of artificial intelligence, NectarGPT is the new kid on the block that's quickly making waves. Developed by Sphrex labs, NectarGPT is an autonomous writing assistant that promises to revolutionize the way we write, communicate, and work. In this blog post, we'll explore the capabilities of NectarGPT and show you how this next-generation AI tool can help you 10x your productivity, drive traffic to your site, and grow your business.](https://github.com/socialtribexyz/nectarGPT)
 
 What is NectarGPT?
 NectarGPT is an AI-powered writing assistant that uses the GPT-3 (Generative Pre-trained Transformer 3) language model to generate high-quality content. It can help you automate repetitive writing tasks, generate unique content, and streamline your workflows. The tool is equipped with advanced algorithms and deep learning models that allow it to understand natural language and generate human-like responses.
@@ -43,7 +43,7 @@ Boosts Traffic and Engagement: By creating unique and engaging content, you can 
 
 [Easy to Use: NectarGPT is incredibly user-friendly and requires no technical skills or programming knowledge. Anyone can use it to generate high-quality content quickly and easily.](https://github.com/socialtribexyz/nectarGPT)
 
-OpenAI-Powered: NectarGPT is powered by OpenAI, a leading research institute in the field of artificial intelligence. This means that the tool is backed by cutting-edge research and development, ensuring that it stays ahead of the curve in terms of performance and capabilities.
+OpenAI-Powered: NectarGPT is powered by sphrex labs, a leading research institute in the field of artificial intelligence. This means that the tool is backed by cutting-edge research and development, ensuring that it stays ahead of the curve in terms of performance and capabilities.
 
 In Conclusion
 [NectarGPT is an autonomous writing assistant that offers a range of features and capabilities that can help you 10x your productivity and grow your business. Whether you're a content creator, marketer, or business owner, NectarGPT can help you automate repetitive tasks, generate high-quality content, and streamline your workflows. With its user-friendly interface, advanced algorithms, and natural language processing capabilities, NectarGPT is quickly becoming the go-to tool for businesses and content creators looking to stay ahead of the curve in the world of artificial intelligence.](https://github.com/socialtribexyz/nectarGPT)
