@@ -26,8 +26,8 @@ const resolvedImageWithDomain = new URL(
 const { title } = Astro.props;
 
 const makeTitle = title
-  ? title + " | " + "NectarGPT Powered by ChatGPT"
-  : "NectarGPT - AI Assistant Chrome Extension Powered by ChatGPT";
+  ? title + " | " + "NectarGPT Powered by OpenAI"
+  : "NectarGPT: Everything you need to know about the AI-powered chatbot";
 ---
 
 <!DOCTYPE html>
@@ -61,11 +61,11 @@ const makeTitle = title
         basic: {
           url: canonicalURL,
           type: "website",
-          title: `NectarGPT - AI Assistant Chrome Extension Powered by ChatGPT`,
+          title: `NectarGPT: Everything you need to know about the AI-powered chatbot`,
           image: resolvedImageWithDomain,
         },
         image: {
-          alt: "NectarGPT - AI Assistant Chrome Extension Powered by ChatGPT",
+          alt: "ChatGPT",
         },
       }}
     />
