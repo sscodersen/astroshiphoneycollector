@@ -8,6 +8,7 @@ author: "Sphrex+"
 layout: "@layouts/BlogLayout.astro"
 tags: [AI, NectarGPT, AGI]
 ---
+<iframe width="560" height="315" src="https://youtube.com/shorts/pqYoAr5jxnU?autoplay=1" frameborder="0" allowfullscreen></iframe>
 
 Are you tired of spending countless hours on mundane and repetitive tasks that could be automated? Do you wish you could streamline your workflow and focus on what truly matters? Look no further than NectarGPT - the ultimate productivity assistant.
 
