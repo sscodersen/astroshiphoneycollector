@@ -1,7 +1,7 @@
 ---
 title: "How NectarGPT Can Help You Make Money: The Ultimate AI Assistant for Automating Any Task and Boosting Your Productivity"
 excerpt: "Learn how to make passive income with AI using NectarGPT, an AI assistant powered by OpenAI. Discover AI-powered content creation, marketing, chatbots, and personal finance management strategies to increase your earnings and streamline your workflow."
-publishDate: "2023-05-4T15:39:36.050Z"
+publishDate: "2023-05-04T15:39:36.050Z"
 image: "https://images.unsplash.com/photo-1664447973006-ac31f9fdfac2?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1032&q=80"
 category: "Tutorials"
 author: "Sphrex+"
