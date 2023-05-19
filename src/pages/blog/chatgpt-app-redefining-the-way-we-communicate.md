@@ -1,7 +1,7 @@
 ---
 title: "ChatGPT App - The Power of AI at Your Fingertips"
 excerpt: "Discover the revolutionary ChatGPT app and its amazing features. With NectarGPT's AI-powered chatbot, you can now communicate more efficiently and effectively. Learn how this app is redefining the way we chat and improving our daily communication experience."
-publishDate: "2023-05-07T15:39:36.050Z"
+publishDate: "2023-01-07T15:39:36.050Z"
 image: "https://images.unsplash.com/photo-1676573408178-a5f280c3a320?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=774&q=80"
 category: "spotlight"
 author: "Sphrex+"

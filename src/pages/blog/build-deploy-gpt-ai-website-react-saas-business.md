@@ -1,7 +1,7 @@
 ---
 title: "How to Build and Deploy Your Own GPT AI Website with React and Turn it Into a Profitable SaaS Business"
 excerpt: "Have you ever wanted to build your own GPT AI website but didn't know where to start? Look no further! In this blog post, we will guide you through the process of building and deploying a GPT AI website using React. Not only will you learn how to create an AI-powered website, but we'll also show you how to turn it into a profitable SaaS business."
-publishDate: "2023-04-25T15:39:36.050Z"
+publishDate: "2023-02-13T15:39:36.050Z"
 image: "https://images.unsplash.com/photo-1655634535290-6bab0013accc?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=464&q=80"
 category: "Tutorials"
 author: "Sphrex+"

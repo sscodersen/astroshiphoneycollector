@@ -1,7 +1,7 @@
 ---
 title: "10X GPT4 With NectarGPT: An Autonomous Open-Source Experiment"
 excerpt: "NectarGPT is a cutting-edge AI tool that has been making waves in the tech world. It has been touted as the fastest-growing app on the market and can save you hours of time at work. Now, a group of developers has taken it a step further by using it to enhance GPT-4, the next iteration of the powerful language model. In this blog post, we’ll explore the experiment and what it means for the future of AI"
-publishDate: "2023-04-14T15:39:36.050Z"
+publishDate: "2023-03-14T15:39:36.050Z"
 image: "https://images.unsplash.com/photo-1655720031554-a929595ffad7?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=580&q=80"
 category: "Tutorials"
 author: "Sphrex+"

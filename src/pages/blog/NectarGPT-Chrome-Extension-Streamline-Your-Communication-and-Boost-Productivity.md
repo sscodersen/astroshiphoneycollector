@@ -1,7 +1,7 @@
 ---
 title: "NectarGPT Chrome Extension: Streamline Your Communication and Boost Productivity"
 excerpt: "Introducing the NectarGPT Chrome Extension - the ultimate solution to streamline your communication and enhance your productivity. This powerful tool utilizes advanced language models to provide you with highly accurate and natural language responses, helping you to respond to messages and emails faster than ever before. With the ability to customize your responses and create your own shortcuts, NectarGPT makes it easy to stay on top of your inbox and communicate more efficiently. Read on to learn more about how NectarGPT can help you take your productivity to the next level."
-publishDate: "2023-03-03T10:00:00.000Z"
+publishDate: "2023-01-03T10:00:00.000Z"
 image: "https://images.unsplash.com/photo-1627163439134-7a8c47e08208?&fit=crop&w=430&h=240"
 category: "AI"
 author: "Sphrex Labs"

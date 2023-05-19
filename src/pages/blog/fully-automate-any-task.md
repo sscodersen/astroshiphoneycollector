@@ -1,7 +1,7 @@
 ---
 title: "NectarGPT: The Next Generation AI Writing Assistant That Will Transform Your Workflows"
 excerpt: "NectarGPT is the latest innovation from OpenAI, the world's leading AI research lab. It's an autonomous writing assistant that utilizes cutting-edge AI technology to help you automate repetitive writing tasks, generate high-quality content, and streamline your workflows. With NectarGPT, you can save countless hours on writing projects and focus on the things that matter most to your business."
-publishDate: "2023-04-14T15:39:36.050Z"
+publishDate: "2023-04-10T15:39:36.050Z"
 image: "https://images.unsplash.com/photo-1633460163609-da524403efff?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80"
 category: "Tutorials"
 author: "Sphrex+"

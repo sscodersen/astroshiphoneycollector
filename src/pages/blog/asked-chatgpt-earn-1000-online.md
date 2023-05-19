@@ -1,7 +1,7 @@
 ---
 title: "I Asked ChatGPT How To Earn $1000 Online. It Was Hilarious"
 excerpt: "Are you looking to make some extra money online? Maybe you're tired of the traditional 9-to-5 grind and want to explore new avenues for income. I decided to ask ChatGPT, a language model developed by OpenAI, for some advice on how to earn $1000 online. What I got in response was unexpected, to say the least! In this post, I'll share with you the hilarious conversation I had with ChatGPT and provide some real strategies for earning money online"
-publishDate: "2023-04-13T15:39:36.050Z"
+publishDate: "2023-02-13T15:39:36.050Z"
 image: "https://images.unsplash.com/photo-1655635949348-953b0e3c140a?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=754&q=80"
 category: "Tutorials"
 author: "Sphrex+"

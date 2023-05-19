@@ -1,7 +1,7 @@
 ---
 title: "Fully automate any task with NectarGPT - the future of productivity is here."
 excerpt: "Discover the ultimate tool for automating any task with NectarGPT! With our AI-powered chrome extension, you'll have the power to fully automate any task right from your browser using prompts tailored to your specific needs. Whether you're generating code, writing a blog post, or managing your social media accounts, NectarGPT makes it easy to streamline your workflow and save valuable time. Plus, our in-tab chat feature and AI voice commands give you even more control and flexibility, while our source file ability ensures that your work is always backed up and easily accessible. Say goodbye to tedious, time-consuming tasks and hello to a more productive, efficient way of working with NectarGPT. Try it today and experience the power of automation!"
-publishDate: "2023-04-11T15:39:36.050Z"
+publishDate: "2023-02-05T15:39:36.050Z"
 image: "https://images.unsplash.com/photo-1678491449021-762a7b999862?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=928&q=80"
 category: "Tutorials"
 author: "Sphrex+"

@@ -1,7 +1,7 @@
 ---
 title: "AI Generated Content: What it is and How it can Revolutionize Your Marketing"
 excerpt: "Discover the power of AI Generated content and why it's becoming increasingly important in today's digital landscape. From chatbots to content creation, AI Generated technology is changing the way we interact with the world. Explore the benefits and applications of AI Generated content in this informative blog post."
-publishDate: "2023-04-25T15:39:36.050Z"
+publishDate: "2023-03-25T15:39:36.050Z"
 image: "https://images.unsplash.com/photo-1677696795873-ca21e7d76a51?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=774&q=80"
 category: "Tutorials"
 author: "Matt Reid"
