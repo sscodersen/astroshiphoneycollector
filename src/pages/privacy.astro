@@ -1,0 +1,59 @@
+---
+import { getCollection } from "astro:content";
+import { Picture } from "@astrojs/image/components";
+import Layout from "@layouts/Layout.astro";
+import Container from "@components/container.astro";
+import Sectionhead from "@components/sectionhead.astro";
+---
+
+<Layout title="About">
+  <Container>
+    <Sectionhead>
+      <Fragment slot="title">Privacy Policy</Fragment>
+      <Fragment slot="desc"></Fragment>
+    </Sectionhead>
+
+    <div class="flex flex-col gap-3 mx-auto max-w-4xl mt-16">
+      <h2 class="font-bold text-3xl text-gray-800">
+      </h2>
+      <p class="text-lg leading-relaxed text-slate-500">
+
+        This Privacy Policy ("Policy") explains how [Your Company Name] ("Company," "we," or "us") collects, uses, and protects the personal information of users ("User," "you," or "your") in connection with the Nectargpt AI Assistant Chrome Extension ("Extension"). By using the Extension, you consent to the practices described in this Policy.
+
+1. Information We Collect
+1.1. Personal Information: When you use the Extension, we may collect certain personal information, such as your name, email address, or other contact information. We only collect personal information that you voluntarily provide to us.
+
+1.2. Usage Data: We may also collect non-personal information about your use of the Extension, including the actions you take, the content you create, and technical information about your device or browser.
+
+2. Use of Information
+2.1. Provide and Improve the Extension: We use the collected information to provide and improve the functionality and performance of the Extension. This includes personalizing your experience, generating insights, and enhancing the features and services offered.
+
+2.2. Communication: We may use your contact information to communicate with you about the Extension, respond to your inquiries, provide customer support, and send you relevant notifications and updates.
+
+2.3. Analytics and Aggregated Data: We may analyze non-personal information for statistical purposes, monitor trends, and gather usage data to improve the Extension's performance and user experience. Aggregated and anonymized data may be used for research, analytics, and marketing purposes.
+
+3. Data Sharing and Disclosure
+3.1. Service Providers: We may share your personal information with trusted third-party service providers who assist us in operating the Extension, conducting business operations, or providing services on our behalf. These service providers are contractually obligated to handle your information securely and confidentially.
+
+3.2. Legal Requirements: We may disclose your personal information if required to do so by law or in response to valid legal requests, such as subpoenas, court orders, or government regulations.
+
+3.3. Business Transfers: In the event of a merger, acquisition, or sale of all or a portion of our assets, your personal information may be transferred to the acquiring entity as part of the transaction.
+
+4. Data Security
+We take reasonable measures to protect the security of your personal information and maintain its confidentiality. However, please note that no method of transmission over the internet or electronic storage is 100% secure. We cannot guarantee the absolute security of your information.
+
+5. Third-Party Links and Services
+The Extension may contain links to third-party websites, services, or content. This Privacy Policy does not apply to any third-party websites or services. We encourage you to review the privacy policies of those third parties before interacting with them.
+
+6. Children's Privacy
+The Extension is not intended for use by individuals under the age of 13. We do not knowingly collect personal information from children. If we become aware that we have collected personal information from a child under the age of 13, we will take steps to promptly delete that information.
+
+7. Changes to this Policy
+We may update this Privacy Policy from time to time. Any changes will be effective upon posting the revised Policy on our website. We encourage you to review this Policy periodically for any updates.
+
+8. Contact Us
+If you have any questions, concerns, or requests regarding this Privacy Policy or the handling of your personal information, please contact us at [Your contact information].
+      </p>
+    </div>
+  </Container>
+</Layout>
