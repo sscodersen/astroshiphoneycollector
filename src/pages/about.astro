@@ -1,28 +1,32 @@
 ---
+import { getCollection } from "astro:content";
+import { Picture } from "@astrojs/image/components";
 import Layout from "@layouts/Layout.astro";
 import Container from "@components/container.astro";
 import Sectionhead from "@components/sectionhead.astro";
-import { Picture } from "@astrojs/image/components";
+
+// Filter team entries with 'draft: false' & date before current date
+const publishedTeamMembers = await getCollection("team", ({ data }) => {
+  return !data.draft && data.publishDate < new Date();
+});
 ---
----
 
-Are you new to the world of Artificial Intelligence (AI)? Do you want to learn how to get started with AI? If so, you've come to the right place! In this article, we will provide you with a comprehensive beginner's guide to AI, with a particular focus on NectarGPT.
+<Layout title="About">
+  <Container>
+    <Sectionhead>
+      <Fragment slot="title">About</Fragment>
+      <Fragment slot="desc">We are a small passionate team.</Fragment>
+    </Sectionhead>
 
-What is AI?
-Artificial Intelligence, or AI, is a broad field that encompasses many different technologies and techniques. At its most basic level, AI involves creating computer systems that can perform tasks that normally require human intelligence, such as understanding natural language, recognizing images, and making decisions. AI is already being used in a wide variety of applications, from self-driving cars to virtual assistants like Siri and Alexa.
-
-Why Learn AI?
-Learning about AI is becoming increasingly important as AI is increasingly being integrated into our daily lives. Knowing the basics of AI can help you understand how it works and how it can be applied in various fields. Additionally, AI is one of the fastest-growing fields in the tech industry, with high demand for skilled professionals in areas such as machine learning, natural language processing, and data science.
-
-Getting Started with AI
-To get started with AI, there are a few key concepts you should understand. First, you should understand the difference between machine learning, deep learning, and artificial neural networks. Machine learning is a subfield of AI that involves teaching machines to learn from data, while deep learning and artificial neural networks are more advanced techniques that are used to create more complex models.
-
-Second, you should learn about programming languages commonly used in AI development, such as Python and R. These languages are often used to build and train AI models.
-
-Finally, it's important to understand the ethical considerations surrounding AI, such as bias and privacy concerns. As AI becomes more prevalent, it's important to ensure that it is developed and used ethically and responsibly.
-
-NectarGPT: The Perfect Tool for AI Beginners
-NectarGPT is an AI-powered writing assistant that can help beginners get started with AI. It can help you write articles, essays, and other content related to AI, while also offering suggestions for improving your writing. Additionally, NectarGPT can help you generate ideas for AI projects, build machine learning models, and even automate tasks using AI.
-
-Conclusion
-In conclusion, AI is a fascinating and rapidly evolving field that has the potential to transform many aspects of our lives. Whether you are interested in pursuing a career in AI or simply want to learn more about the technology, NectarGPT is an excellent tool for getting started. With its powerful AI capabilities and user-friendly interface, NectarGPT can help you write better, think more creatively, and explore the exciting world of AI.
+    <div class="flex flex-col gap-3 mx-auto max-w-4xl mt-16">
+      <h2 class="font-bold text-3xl text-gray-800">
+        Empowering the world with Astro.
+      </h2>
+      <p class="text-lg leading-relaxed text-slate-500">
+        We're a multi-cultural team from around the world! We come from diverse
+        backgrounds, bringing different personalities, experiences and skills to
+        the job. This is what makes our team so special.
+      </p>
+    </div>
+  </Container>
+</Layout>
