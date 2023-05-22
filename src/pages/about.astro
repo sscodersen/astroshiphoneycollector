@@ -22,30 +22,5 @@ import { Picture } from "@astrojs/image/components";
         the job. This is what makes our team so special.
       </p>
     </div>
-    <div class="grid md:grid-cols-3 gap-10 mx-auto max-w-4xl mt-12">
-      {
-        team.map((item) => (
-          <div class="group">
-            <div class="w-full aspect-square">
-              <Picture
-                {...item.avatar}
-                format="avif"
-                alt="Team"
-                widths={[200, 400]}
-                aspectRatio="1:1"
-                sizes="(max-width: 800px) 100vw, 400px"
-                class="w-full h-full object-cover rounded transition  group-hover:-translate-y-1 group-hover:shadow-xl"
-                format="avif"
-              />
-            </div>
-
-            <div class="mt-4 text-center">
-              <h2 class="text-lg text-gray-800"> {item.name}</h2>
-              <h3 class="text-sm text-slate-500"> {item.title}</h3>
-            </div>
-          </div>
-        ))
-      }
-    </div>
   </Container>
 </Layout>
