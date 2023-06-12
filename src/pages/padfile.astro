@@ -1,4 +1,25 @@
-<?xml version="1.0" encoding="UTF-8"?>
+---
+import { getCollection } from "astro:content";
+import { Picture } from "@astrojs/image/components";
+import Layout from "@layouts/Layout.astro";
+import Container from "@components/container.astro";
+import Sectionhead from "@components/sectionhead.astro";
+---
+
+<Layout title="padfile">
+  <Container>
+    <Sectionhead>
+      <Fragment slot="title">padfile</Fragment>
+      <Fragment slot="desc">info on our extension for distribution</Fragment>
+    </Sectionhead>
+
+    <div class="flex flex-col gap-3 mx-auto max-w-4xl mt-16">
+      <h2 class="font-bold text-3xl text-gray-800">
+        At Nectargpt, our mission is to empower users with a powerful AI assistant Chrome extension that enhances productivity and unleashes creativity. We are dedicated to providing a seamless and intuitive experience, revolutionizing the way people work, learn, and create content. With Nectargpt, we aim to bridge the gap between human potential and the capabilities of AI, enabling users to accomplish more and achieve their goals with ease.
+      </h2>
+      <p class="text-lg leading-relaxed text-slate-500">
+
+       <?xml version="1.0" encoding="UTF-8"?>
 <XML_DIZ_INFO>
   <MASTER_PAD_VERSION_INFO>
     <MASTER_PAD_VERSION>4.0</MASTER_PAD_VERSION>
@@ -30,3 +51,7 @@
     </Web_Info>
   </Program_Info>
 </XML_DIZ_INFO>
+      </p>
+    </div>
+  </Container>
+</Layout>
