@@ -9,8 +9,9 @@ layout: "@layouts/BlogLayout.astro"
 tags: [AI, chatgpt, NectarGPT, AGI]
 ---
 
-<h1>NectarGPT: Revolutionizing Language Generation with AI</h1>
 <img src="https://images.unsplash.com/photo-1593508512255-86ab42a8e620?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=578&q=80" alt="NectarGPT" />
+
+<h1>NectarGPT is Revolutionizing Language Generation with AI</h1>
 
 <p>NectarGPT is a revolutionary advancement in the field of artificial intelligence, specifically in natural language processing. It is an autonomous open-source experiment that promises to take language generation to the next level. In this article, we will explore the potential of NectarGPT, its underlying technology, and how it is poised to change the landscape of AI forever.</p>
 
