@@ -9,6 +9,8 @@ layout: "@layouts/BlogLayout.astro"
 tags: [AI, NectarGPT, AGI]
 ---
 
+<p><img src="https://images.unsplash.com/photo-1664448027922-f017a91ff392?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=464&q=80" alt="NectarGPT" /></p>
+
 <article>
   <h1>Understanding React: The Foundation of Your AI Website</h1>
   <p>In today's digital landscape, AI technologies have become increasingly prevalent, revolutionizing the way we interact with websites. By integrating AI capabilities into websites, businesses can enhance user experiences, personalize content, and automate various tasks. Building your own GPT AI website opens doors to a world of possibilities, where your creativity and entrepreneurial spirit can thrive.</p>
