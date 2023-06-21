@@ -67,15 +67,13 @@ tags: [AI, chatgpt, NectarGPT, AGI]
   <section>
     <h2>The Rise of User-Friendly AI</h2>
     <p>AI has come a long way from being a complex and inaccessible technology reserved for experts. User-friendly AI aims to bridge this gap by making AI accessible and intuitive for everyone. ChatGPT is a prime example of user-friendly AI, designed to interact with users in a conversational manner, emulating human-like responses and understanding.</p>
-
-    <img src="https://images.unsplash.com/photo-1655720035861-ba4fd21a598d?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=580&q=80" alt="User-Friendly AI" />
+<img src="https://images.unsplash.com/photo-1655720035861-ba4fd21a598d?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=580&q=80" alt="User-Friendly AI" />
   </section>
 
   <section>
     <h2>The Power of Natural Language Processing</h2>
     <p>At the heart of ChatGPT lies the power of natural language processing (NLP). NLP enables AI models like ChatGPT to understand and generate human language. By analyzing patterns, context, and linguistic structures, ChatGPT can provide coherent and contextually relevant responses, making the interaction feel more natural and engaging.</p>
-
-    <img src="https://images.unsplash.com/photo-1655634535242-b056d585dfd9?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=464&q=80" alt="Natural Language Processing" />
+<img src="https://images.unsplash.com/photo-1655634535242-b056d585dfd9?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=464&q=80" alt="Natural Language Processing" />
   </section>
 
   <section>
