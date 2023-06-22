@@ -9,6 +9,8 @@ layout: "@layouts/BlogLayout.astro"
 tags: [AI, NectarGPT, AGI,ChatGPT]
 ---
 
+<img src="https://images.unsplash.com/photo-1677696797025-e6a40f6c714d?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=774&q=80" alt="AI-Driven Innovation" />
+
 Are you using ChatGPT to its full potential? If you're like most users, you're probably only scratching the surface of what this powerful tool can do. In fact, you might be using it wrong without even realizing it!
 
 But don't worry, in this article, we'll show you how to be ahead of 99% of ChatGPT users by unlocking its full potential. Here are some tips:

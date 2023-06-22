@@ -9,6 +9,8 @@ layout: "@layouts/BlogLayout.astro"
 tags: [AI, chatgpt, NectarGPT, AGI]
 ---
 
+<img src="https://images.unsplash.com/photo-1684864411311-b2a65c30b698?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=387&q=80" alt="AI-Driven Innovation" />
+
 Advancements in AI language models, such as ChatGPT and its successors like NectarGPT, are revolutionizing the way we interact with technology. These models have the potential to enhance various aspects of our lives, from improving customer service experiences to automating content creation.
 
 Artificial intelligence (AI) has become a buzzword in recent years, and one of the most exciting developments in this field is the emergence of language models that can understand and generate natural language. ChatGPT is one such model, developed by OpenAI using the GPT architecture. In this article, we will explore what ChatGPT is, how it works, and its potential applications.
