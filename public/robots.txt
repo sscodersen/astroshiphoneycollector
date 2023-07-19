@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://www.nectarhub.xyz/sitemap-index.xml
+Sitemap: https://blog.nectarhub.xyz/sitemap-index.xml
