@@ -70,5 +70,5 @@ tags: [AI, NectarGPT, AGI]
 <strong>A</strong>: NectarGPT serves as a powerful assistant for individuals with disabilities, enhancing accessibility and inclusivity.</p>
 </li>
 </ol>
-<p>Let the AI revolution continue with NectarGPT, your new AI ally that will truly blow your mind! Embrace the possibilities, and let the magic unfold</p>
-<p>!</p>
+<p>Let the AI revolution continue with NectarGPT, your new AI ally that will truly blow your mind! Embrace the possibilities, and let the magic unfold!</p>
+
