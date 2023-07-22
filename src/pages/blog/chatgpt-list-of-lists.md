@@ -11,11 +11,9 @@ tags: [AI, chatgpt, NectarGPT, AGI]
 
 <img src="https://images.unsplash.com/photo-1679958157946-a629332cb903?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=887&q=80" alt="ChatGPT Basics" />
 
-<h1> The Exciting Applications of ChatGPT: Unleashing the Power of Mass-Market AI in Diverse Fields </h1>
-
 ChatGPT, the groundbreaking foundation model for the mass-market, has taken the AI world by storm. With one million users in just five days after its launch, it has become one of the fastest-growing applications on the internet. Let's delve into the fascinating array of applications that make ChatGPT truly exceptional.
 
-<h2> The iPhone Moment for AI and its Explosive Growth </h2>
+<h1> The iPhone Moment for AI and its Explosive Growth </h1>
 
 The moment ChatGPT hit the market was reminiscent of the iconic iPhone launch, marking a turning point in AI technology. Its mass-market appeal has led to unparalleled growth and popularity, making it one of the most successful applications in the AI realm.
 
