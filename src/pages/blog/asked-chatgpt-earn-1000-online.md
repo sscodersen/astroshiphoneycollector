@@ -8,7 +8,6 @@ author: "Sphrex+"
 layout: "@layouts/BlogLayout.astro"
 tags: [AI, chatgpt, NectarGPT, AGI]
 ---
-<h1> How to Earn $1000 Online: Exploring ChatGPT's Hilarious Responses </h1>
 
 <h2> The First Response: The Obvious Ones </h2>
 

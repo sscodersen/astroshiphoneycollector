@@ -8,9 +8,7 @@ author: "Matt Reid"
 layout: "@layouts/BlogLayout.astro"
 tags: [AI, NectarGPT, AGI]
 ---
-AI-Generated Content: Revolutionizing Marketing
 
-<H1>Unlocking the Power of AI-Generated Content for Your Marketing Strategy </H1>
 The marketing landscape is continually evolving, and AI-generated content is at the forefront of this transformation. In this article, we will explore the fascinating world of AI-generated content, its mechanisms, benefits, real-life applications, and the future it holds for marketers.
 
 <H2>What is AI-Generated Content?</H2>

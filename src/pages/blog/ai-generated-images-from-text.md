@@ -9,7 +9,6 @@ layout: "@layouts/BlogLayout.astro"
 tags: [AI, chatgpt, NectarGPT, AGI]
 ---
 
-<h1> How to Use AI Art Generators to Create Images From Text </h1>
 Have you ever wondered how to turn your words into stunning visuals effortlessly? The advancement of AI art generators has made it possible to transform text into beautiful imagery, bringing your ideas to life with just a few clicks.
 
 AI-generated images have an array of potential uses, ranging from marketing and visual content creation to storytelling. With the ability to create captivating and realistic images from text, the possibilities are truly endless.
