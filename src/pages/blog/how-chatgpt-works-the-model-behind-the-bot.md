@@ -17,55 +17,55 @@ tags: [AI, chatgpt, NectarGPT, AGI]
 <h2 id="table-of-contents">Table of Contents</h2>
 <ol>
 <li>Understanding Language Models<ul>
-<li>Definition of Language Models (H2)</li>
-<li>How Language Models Process Text (H2)</li>
+<li>Definition of Language Models </li>
+<li>How Language Models Process Text </li>
 </ul>
 </li>
 <li>The Rise of Transformer-Based Models<ul>
-<li>Evolution of AI Models (H2)</li>
-<li>Introduction to Transformer Architecture (H2)</li>
+<li>Evolution of AI Models </li>
+<li>Introduction to Transformer Architecture </li>
 </ul>
 </li>
 <li>Introducing ChatGPT<ul>
-<li>OpenAI&#39;s ChatGPT (H2)</li>
-<li>Fine-Tuning for Customization (H2)</li>
+<li>OpenAI&#39;s ChatGPT </li>
+<li>Fine-Tuning for Customization </li>
 </ul>
 </li>
 <li>The Intricacies of Training ChatGPT<ul>
-<li>Dataset Collection (H2)</li>
-<li>Preprocessing Text Data (H2)</li>
-<li>Training Process (H2)</li>
+<li>Dataset Collection </li>
+<li>Preprocessing Text Data </li>
+<li>Training Process </li>
 </ul>
 </li>
 <li>The Magic of Attention Mechanism<ul>
-<li>Understanding Attention (H2)</li>
-<li>Attention Mechanism in Transformers (H2)</li>
+<li>Understanding Attention </li>
+<li>Attention Mechanism in Transformers </li>
 </ul>
 </li>
 <li>The Role of Context<ul>
-<li>Context Window (H2)</li>
-<li>Context in Conversation (H2)</li>
+<li>Context Window </li>
+<li>Context in Conversation </li>
 </ul>
 </li>
 <li>Ethical Considerations with ChatGPT<ul>
-<li>Addressing Bias (H2)</li>
-<li>OpenAI&#39;s Guidelines (H2)</li>
+<li>Addressing Bias </li>
+<li>OpenAI&#39;s Guidelines </li>
 </ul>
 </li>
 <li>The Limitations of ChatGPT<ul>
-<li>Understanding Limitations (H2)</li>
-<li>Mitigating Risks (H2)</li>
+<li>Understanding Limitations </li>
+<li>Mitigating Risks </li>
 </ul>
 </li>
 <li>Real-World Applications of ChatGPT<ul>
-<li>Customer Support (H2)</li>
-<li>Content Creation (H2)</li>
-<li>Language Translation (H2)</li>
+<li>Customer Support </li>
+<li>Content Creation </li>
+<li>Language Translation </li>
 </ul>
 </li>
 <li>ChatGPT: Advancements and Future Prospects<ul>
-<li>Ongoing Research (H2)</li>
-<li>Potential Applications (H2)</li>
+<li>Ongoing Research </li>
+<li>Potential Applications </li>
 </ul>
 </li>
 <li>Conclusion</li>
