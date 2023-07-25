@@ -1,6 +1,6 @@
 ---
 title: "Exploring the Existence of Aliens: Unveiling the Truth"
-excerpt: "In this article, we delve into the captivating topic of extraterrestrial life and the age-old question that has intrigued humanity for centuries: "Do aliens exist?" At the intersection of science, astronomy, and imagination, the quest for extraterrestrial beings continues to captivate both scientists and enthusiasts alike. Join us on this journey as we explore compelling evidence, scientific theories, and fascinating speculations regarding the existence of aliens"
+excerpt: "In this article, we delve into the captivating topic of extraterrestrial life and the age-old question that has intrigued humanity for centuries: "Do aliens exist?" At the intersection of science, astronomy, and imagination..."
 publishDate: "2023-07-22T15:39:36.050Z"
 image: "https://images.unsplash.com/photo-1553528989-978b279600f0?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=387&q=80"
 category: "Tutorials"
