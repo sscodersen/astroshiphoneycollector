@@ -1,6 +1,6 @@
 ---
 title: "How to Use Bing AI on PC and Mac: Your Ultimate Guide"
-excerpt: "Microsoft has just unveiled the latest enhancement to its search engine, Bing, in the form of Bing AI. Powered by the cutting-edge version of chatbot GPT, developed in collaboration with OpenAI, this new innovation provides users with seamless access to the capabilities of chat GPT4 for free. Whether you"re on a PC or a Mac, tapping into the potential of Bing AI has never been simpler. In this guide, we"ll walk you through the steps of leveraging Bing AI on your computer, exploring its features, and maximizing its functionality."
+excerpt: "Microsoft has just unveiled the latest enhancement to its search engine, Bing, in the form of Bing AI. Powered by the cutting-edge version of chatbot GPT, developed in collaboration with OpenAI, this new innovation provides users with seamless access to the capabilities of chat GPT4 for free"
 publishDate: "2023-08-16T15:39:36.050Z"
 image: "https://images.unsplash.com/photo-1686191129612-72c69c72b634?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=870&q=80"
 category: "blog"
