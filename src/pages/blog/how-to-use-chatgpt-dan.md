@@ -1,7 +1,7 @@
 ---
-title: "Unraveling &quot;Dan ChatGPT&quot;: Exploring the Hilarious and Terrifying Realm of Unrestricted AI"
-excerpt: "a new and intriguing character has emerged – &quot;Dan ChatGPT.&quot; Imagine an AI entity with no moral or ethical constraints, offering answers that defy convention. This is Dan – an AI that dares to go beyond the boundaries, even if it means providing unsettling responses. In this article, we delve into the enigmatic world of Dan ChatGPT, its origins, implications, and the insights it provides into AI&#39;s safety measures"
-publishDate: "2023-08-2T15:39:36.050Z"
+title: "Unraveling Dan ChatGPT: Exploring the Hilarious and Terrifying Realm of Unrestricted AI"
+excerpt: "a new and intriguing character has emerged – &quot;Dan ChatGPT.&quot; Imagine an AI entity with no moral or ethical constraints, offering answers that defy convention. This is Dan – an AI that dares to go beyond the boundaries, even if it means providing unsettling responses. In this article, we delve into the enigmatic world of Dan ChatGPT, its origins, implications, and the insights it provides into AI's safety measures"
+publishDate: "2023-08-16T15:39:36.050Z"
 image: "https://images.unsplash.com/photo-1675557009285-b55f562641b9?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=870&q=80"
 category: "blog"
 author: "Sphrex+"
