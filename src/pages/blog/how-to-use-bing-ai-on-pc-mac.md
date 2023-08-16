@@ -8,7 +8,6 @@ author: "Sphrex+"
 layout: "@layouts/BlogLayout.astro"
 tags: [AI, chatgpt, NectarGPT, AGI]
 ---
-
 <h2 id="-accessing-bing-ai-on-your-pc-or-mac-"><strong>Accessing Bing AI on Your PC or Mac</strong></h2>
 <p>To harness the power of Bing AI on your PC or Mac, follow these straightforward steps:</p>
 <ol>
