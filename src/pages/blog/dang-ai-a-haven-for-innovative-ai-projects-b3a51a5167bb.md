@@ -1,7 +1,7 @@
 ---
 title: "Dang.ai — A Haven for Innovative AI Projects"
 excerpt: "In the ever-evolving landscape of artificial intelligence (AI), there's a rising star that has been making waves and gaining the attention of tech enthusiasts and innovators alike - Dang.ai. This article will delve into the world of Dang.ai, exploring what makes it a haven for innovative AI projects. From its inception to its remarkable achievements, we'll take you on a journey through this extraordinary platform that is shaping the future of AI"
-publishDate: "2023-07-25T15:39:36.050Z"
+publishDate: "2023-09-3T15:39:36.050Z"
 image: "https://images.unsplash.com/photo-1680696045999-c55818e8dc73?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1332&q=80"
 category: "Tutorials"
 author: "Sphrex+"
