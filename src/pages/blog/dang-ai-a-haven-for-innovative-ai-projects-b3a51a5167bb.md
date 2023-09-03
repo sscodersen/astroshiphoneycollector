@@ -9,7 +9,7 @@ layout: "@layouts/BlogLayout.astro"
 tags: [AI, chatgpt, NectarGPT, AGI]
 ---
 
-<h2 id="introduction-to-dang-ai-h1-">[Introduction to Dang.ai](https://dang.ai/tool/ai-browsing-assistant-nectargpt) </h2>
+<h2 id="introduction-to-dang-ai-h1-">(Introduction to Dang.ai)[https://dang.ai/tool/ai-browsing-assistant-nectargpt] </h2>
 <p>Dang.ai is not just another run-of-the-mill AI platform; it's a dynamic ecosystem that fosters groundbreaking AI projects. Founded by visionary AI enthusiasts, Dang.ai was established with the mission to provide a nurturing environment for AI researchers, developers, and startups to thrive.</p>
 <h3 id="a-visionary-beginning-h2-">A Visionary Beginning </h3>
 <p>Dang.ai began its journey with a vision to bridge the gap between AI theory and real-world applications. It was conceived as a platform that would not only facilitate research but also encourage innovation by providing the necessary resources and support.</p>
