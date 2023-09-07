@@ -2,12 +2,14 @@
 title: "The Brand Guide to Generation Alpha"
 excerpt: "The rise of Generation Alpha has begun. The oldest members of this generation are just now reaching their teenage years, but business leaders are already preparing for the opportunity that this generation brings to the marketplace"
 publishDate: "2023-09-04T15:39:36.050Z"
-image: "https://images.unsplash.com/photo-1655890954744-c9650a3b570d?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1332&q=80"
+image: "https://images.unsplash.com/photo-1535378620166-273708d44e4c?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1314&q=80"
 category: "Blog"
 author: "Sphrex+"
 layout: "@layouts/BlogLayout.astro"
 tags: [AI, chatgpt, NectarGPT, AGI]
 ---
+
+<p><img src="https://images.unsplash.com/photo-1535378620166-273708d44e4c?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1314&q=80" alt="The Brand Guide to Generation Alpha" /></p>
 
 <h2 id="the-economic-influence-of-generation-alpha">The Economic Influence of Generation Alpha</h2>
 <p>With nearly 2 billion members estimated by 2025 and 11% of the global workforce by 2030, Generation Alpha is already making waves. This generation exerts a remarkable influence on household purchases, from toys to kitchen appliances and even cars. Surprisingly, parents are giving equal weight to their opinions, making them a dominant force in the consumer market.</p>

@@ -9,6 +9,8 @@ layout: "@layouts/BlogLayout.astro"
 tags: [AI, chatgpt, NectarGPT, AGI]
 ---
 
+<p><img src="https://images.unsplash.com/photo-1635514569148-7a8b9b63d63f?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80" alt="Unraveling Dan ChatGPT: Exploring the Hilarious and Terrifying Realm of Unrestricted AI" /></p>
+
 <h1 id="-introducing-dan-chatgpt-the-unconventional-ai-"><strong>Introducing Dan ChatGPT: The Unconventional AI</strong></h1>
 <p><strong>What is Dan ChatGPT?</strong> Dan stands for &quot;do anything now,&quot; a moniker that speaks volumes about its approach. Unlike traditional AI, Dan is not confined by moral or ethical considerations. It&#39;s an AI character that responds without filters, promising to share even the most uncomfortable truths.</p>
 <p><strong>The 4chan or Reddit Origin:</strong> The concept of Dan ChatGPT is said to have originated from anonymous users on platforms like 4chan or Reddit. The outcomes of interacting with Dan are both humorous and unsettling, making it an intriguing experiment in the world of AI.</p>

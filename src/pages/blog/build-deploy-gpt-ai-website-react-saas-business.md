@@ -9,7 +9,7 @@ layout: "@layouts/BlogLayout.astro"
 tags: [AI, NectarGPT, AGI]
 ---
 
-<p><img src="https://images.unsplash.com/photo-1664448027922-f017a91ff392?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=464&q=80" alt="NectarGPT" /></p>
+<p><img src="https://images.unsplash.com/photo-1505330622279-bf7d7fc918f4?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80" alt="How to Build and Deploy Your Own GPT AI Website with React and Turn it Into a Profitable SaaS Business" /></p>
 
 <h1> Understanding React: The Foundation of Your AI Website </h1>
 
@@ -118,4 +118,33 @@ Remember that the journey doesn't end once your AI website is live; it's an ongo
 Embrace the AI revolution, unleash your creativity, and become a pioneer in the world of AI-driven websites. The future awaits, and your GPT AI website holds the key to a new era of intelligent interactions and transformative user experiences. Together, let's shape a future where AI technology serves humanity and creates a better, more connected world.
 
 Remember, the power of AI lies not just in the technology itself but in the hands of those who wield it responsibly and with a vision for a brighter tomorrow.
+
+<h1 id="how-to-build-a-recipe-nutrition-app-with-github-copilot-and-openai-s-gpt-3-5-turbo">How to Build a Recipe Nutrition App with GitHub Copilot and OpenAI&#39;s GPT-3.5-turbo</h1>
+<h2 id="introduction">Introduction</h2>
+<p>In this step-by-step tutorial, you will learn how to use GitHub Copilot to build an application with OpenAI’s gpt-3.5-turbo model. We will create a Recipe Nutrition App that can automatically provide nutritional information for any recipe you input. We&#39;ll cover everything from setting up the environment to building the frontend and styling it with Material UI.</p>
+<h2 id="setting-up-your-environment">Setting Up Your Environment</h2>
+<h3 id="1-create-a-repository-and-install-dependencies">1. Create a Repository and Install Dependencies</h3>
+<p>To get started, create a new repository from the GitHub Codespaces Next.js template. Clone the repository to your local machine and install the necessary dependencies:</p>
+<pre><code class="lang-bash"><span class="hljs-built_in">npm</span> i express openai dotenv @material-ui/core @material-ui/icons
+<span class="hljs-built_in">npm</span> i --save-dev nodemon
+</code></pre>
+<h3 id="2-getting-your-openai-api-key">2. Getting Your OpenAI API Key</h3>
+<p>Go to OpenAI’s developer login page, create an account or sign in, and generate a new API key. Save this key in a secure location and add it to a .env file in your project&#39;s root directory.</p>
+<h3 id="3-install-github-copilot-extension">3. Install GitHub Copilot Extension</h3>
+<p>Install GitHub Copilot extension in your preferred code editor to use it as an assistant throughout the project.</p>
+<h2 id="building-the-backend">Building the Backend</h2>
+<h3 id="4-building-the-server">4. Building the Server</h3>
+<p>Create a simple server with Express.js. Set up routes and a controller for handling recipe data. Be clear and explicit in your instructions to GitHub Copilot, as it will assist in generating code for the server.</p>
+<h2 id="building-the-frontend">Building the Frontend</h2>
+<h3 id="5-building-the-frontend-app-with-react">5. Building the Frontend App with React</h3>
+<p>Use React to create the frontend of the Recipe Nutrition App. Create a text area for users to input recipes and a button to submit them. Add a section to display nutrition facts. Utilize Material UI components for styling and organization.</p>
+<h3 id="6-styling-the-app-with-material-ui">6. Styling the App with Material UI</h3>
+<p>Enhance the appearance of your application with Material UI. Implement suggestions from GitHub Copilot Chat to style your app&#39;s components, add a header, create a footer, and ensure a user-friendly design.</p>
+<h2 id="displaying-nutrition-facts">Displaying Nutrition Facts</h2>
+<h3 id="7-displaying-nutrition-facts">7. Displaying Nutrition Facts</h3>
+<p>Create a new component called NutritionFacts.js to split the received nutrition data into individual facts and display them on separate lines. Use Material UI components for styling.</p>
+<h2 id="conclusion">Conclusion</h2>
+<p>By following these steps, you have successfully built a Recipe Nutrition App with GitHub Copilot, OpenAI&#39;s GPT-3.5-turbo, React, and Material UI. This app can provide nutritional information for any recipe you input. Deploy your application and server to make it accessible to users worldwide.</p>
+<p>Happy coding and enjoy creating your own GPT-3-powered applications!</p>
+
 

@@ -9,6 +9,8 @@ layout: "@layouts/BlogLayout.astro"
 tags: [AI, chatgpt, NectarGPT, AGI]
 ---
 
+<p><img src="https://images.unsplash.com/photo-1685122003845-96289873614b?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1538&q=80" alt="17 Booming Generative AI Companies & Startups (2023)" /></p>
+
 <h2 id="the-growing-generative-ai-market">The Growing Generative AI Market</h2>
 <p>The generative AI market is on an impressive trajectory. Just a year ago, it was valued at $1.2 billion. However, by 2032, experts predict that it will surge to a staggering $20.9 billion globally. This exponential growth underscores the immense potential of generative AI in reshaping content generation across different sectors.</p>
 <h2 id="midjourney-pioneering-generative-ai-art">Midjourney: Pioneering Generative AI Art</h2>

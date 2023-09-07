@@ -9,6 +9,8 @@ layout: "@layouts/BlogLayout.astro"
 tags: [AI, chatgpt, NectarGPT, AGI]
 ---
 
+<p><img src="https://images.unsplash.com/photo-1467663802424-21ff675548c4?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80" alt="Number of ChatGPT Users (2023)" /></p>
+
 <h3 id="top-5-chatgpt-user-statistics">Top 5 ChatGPT User Statistics</h3>
 <p>ChatGPT has quickly become a household name in the AI industry. Let&#39;s dive right into the top five user statistics that illustrate its meteoric rise:</p>
 <h2 id="how-many-chatgpt-users-are-there-">How Many ChatGPT Users Are There?</h2>

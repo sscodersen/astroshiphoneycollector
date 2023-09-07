@@ -9,6 +9,8 @@ layout: "@layouts/BlogLayout.astro"
 tags: [AI, chatgpt, NectarGPT, AGI]
 ---
 
+<p><img src="https://images.unsplash.com/photo-1512389098783-66b81f86e199?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1514&q=80" alt="5 Cheery Ways to Enjoy Christmas on a Budget" /></p>
+
 <h2 id="christmas-on-a-budget-celebrate-the-joy-without-breaking-the-bank">Christmas on a Budget: Celebrate the Joy without Breaking the Bank</h2>
 <p>At sphrex labs, we understand the importance of celebrating the joyous occasion of Christmas without putting a strain on your wallet. With the holiday season just around the corner, we are excited to share some valuable tips and tricks on how to have a wonderful Christmas on a budget. Let&#39;s dive in and discover the secrets to making this festive season memorable without compromising on the magic!</p>
 <h3 id="1-plan-ahead-for-budget-friendly-celebrations">1. Plan Ahead for Budget-Friendly Celebrations</h3>

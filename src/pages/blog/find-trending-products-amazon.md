@@ -9,6 +9,8 @@ layout: "@layouts/BlogLayout.astro"
 tags: [AI, chatgpt, NectarGPT, AGI]
 ---
 
+<p><img src="https://images.unsplash.com/photo-1521791055366-0d553872125f?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1469&q=80" alt="How to Find Trending Products On Amazon For Your Store" /></p>
+
 <h2 id="using-product-research-tools-h2-">Using Product Research Tools </h2>
 <p>One of the easiest and most effective ways to find trending products on Amazon is to utilize a product research tool. A standout tool in this category is Exploding Topics, which offers a comprehensive database of trending products that you can filter by category and various other criteria. The tool provides valuable metrics like Best Seller Ranking (BSR), monthly sales, price, revenue, and average star ratings, helping you make informed decisions.</p>
 <h3 id="unveiling-the-power-of-bsr-h3-">Unveiling the Power of BSR </h3>

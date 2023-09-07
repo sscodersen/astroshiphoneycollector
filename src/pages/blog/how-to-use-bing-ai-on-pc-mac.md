@@ -8,6 +8,9 @@ author: "Sphrex+"
 layout: "@layouts/BlogLayout.astro"
 tags: [AI, chatgpt, NectarGPT, AGI]
 ---
+
+<p><img src="https://images.unsplash.com/photo-1635514569146-9a9607ecf303?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80" alt="How to Use Bing AI on PC and Mac: Your Ultimate Guide" /></p>
+
 <h2 id="-accessing-bing-ai-on-your-pc-or-mac-"><strong>Accessing Bing AI on Your PC or Mac</strong></h2>
 <p>To harness the power of Bing AI on your PC or Mac, follow these straightforward steps:</p>
 <ol>

@@ -9,6 +9,8 @@ layout: "@layouts/BlogLayout.astro"
 tags: [AI, chatgpt, NectarGPT, AGI]
 ---
 
+<p><img src="https://images.unsplash.com/photo-1643990331688-68ff3eb61675?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1332&q=80" alt="Generative AI Market Size, Trends, & Statistics (2023-2025)" /></p>
+
 <h3 id="generative-ai-industry-highlights">Generative AI Industry Highlights</h3>
 <p>The Generative AI industry is currently a juggernaut, boasting a staggering worth of over $13 billion. By 2025, it is projected to surpass $22 billion, growing at an impressive Compound Annual Growth Rate (CAGR) of 27.02%. The North American market leads the way with a 41% revenue share. Transformer models, a cornerstone of Generative AI, accounted for 42% of total revenues in 2022.</p>
 <h3 id="generative-ai-market-size">Generative AI Market Size</h3>

@@ -9,6 +9,8 @@ layout: "@layouts/BlogLayout.astro"
 tags: [AI, chatgpt, NectarGPT, AGI]
 ---
 
+<p><img src="https://images.unsplash.com/photo-1586168390779-742777325341?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80" alt="Dang.ai — A Haven for Innovative AI Projects" /></p>
+
 [Find us on Dang.ai here](https://dang.ai/tool/ai-browsing-assistant-nectargpt)
 
 <h2 id="introduction-to-dang-ai-h1-"> Introduction to Dang.ai </h2>

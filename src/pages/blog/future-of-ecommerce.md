@@ -9,6 +9,8 @@ layout: "@layouts/BlogLayout.astro"
 tags: [AI, chatgpt, NectarGPT, AGI]
 ---
 
+<p><img src="https://images.unsplash.com/photo-1516110833967-0b5716ca1387?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1374&q=80" alt="The Future of Ecommerce" /></p>
+
 <h3 id="livestream-shopping-s-soaring-trajectory">Livestream Shopping&#39;s Soaring Trajectory</h3>
 <p>A 2023 report predicts that revenue from livestream shopping will exceed $31 billion by the end of the year, nearly tripling the market&#39;s value in 2021. Search volume for &quot;livestream shopping&quot; has seen a remarkable 450% increase in the past five years. This surge is indicative of the growing interest in this shopping format.</p>
 <p>By 2026, the report anticipates that livestream shopping could generate a whopping $67.8 billion, constituting over 5% of total ecommerce revenue. While China has already embraced this trend with annual revenues surpassing $500 billion in 2022, the United States is catching up, driven mainly by younger generations&#39; interest.</p>

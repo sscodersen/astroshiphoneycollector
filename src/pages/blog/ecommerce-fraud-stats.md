@@ -9,6 +9,8 @@ layout: "@layouts/BlogLayout.astro"
 tags: [AI, chatgpt, NectarGPT, AGI]
 ---
 
+<p><img src="https://images.unsplash.com/photo-1494444815173-e6b337c86d49?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80" alt="23+ eCommerce Fraud Statistics (2023)" /></p>
+
 <h2 id="the-high-stakes-of-ecommerce-fraud">The High Stakes of eCommerce Fraud</h2>
 <h3 id="key-statistics-">Key Statistics:</h3>
 <ul>

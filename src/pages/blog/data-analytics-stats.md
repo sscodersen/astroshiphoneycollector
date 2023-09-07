@@ -9,6 +9,8 @@ layout: "@layouts/BlogLayout.astro"
 tags: [AI, chatgpt, NectarGPT, AGI]
 ---
 
+<p><img src="https://images.unsplash.com/photo-1640158615573-cd28feb1bf4e?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80" alt="39+ Data Analytics Statistics (2023)" /></p>
+
 <h2 id="h2-the-role-of-data-analytics-in-the-digital-age"> The Role of Data Analytics in the Digital Age</h2>
 <p>Businesses across industries are increasingly recognizing the pivotal role of data analytics in shaping their strategies and operations. From sales and finance to marketing and human resources, data-driven decision-making is becoming the norm. Let&#39;s dive into the latest data analytics trends and statistics to understand the impact of this transformation.</p>
 <h3 id="h3-top-data-analytics-statistics"> Top Data Analytics Statistics</h3>

@@ -9,6 +9,8 @@ layout: "@layouts/BlogLayout.astro"
 tags: [AI, chatgpt, NectarGPT, AGI]
 ---
 
+<p><img src="https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80" alt="20+ E-Signature and Digital Document Statistics" /></p>
+
 <h2 id="top-e-signature-statistics">Top E-Signature Statistics</h2>
 <p>Before we delve deeper into the world of e-signatures, let&#39;s take a quick overview of some key statistics:</p>
 <ol>

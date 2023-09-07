@@ -9,6 +9,8 @@ layout: "@layouts/BlogLayout.astro"
 tags: [AI, chatgpt, NectarGPT, AGI]
 ---
 
+<p><img src="https://images.unsplash.com/photo-1562577309-2592ab84b1bc?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1374&q=80" alt="31+ Marketing Automation Statistics & Trends (2023)" /></p>
+
 
 <h2 id="h2-top-marketing-automation-stats"> Top Marketing Automation Stats</h2>
 <p>Before we dive into the details, let&#39;s take a quick look at some eye-opening marketing automation statistics:</p>

@@ -9,6 +9,8 @@ layout: "@layouts/BlogLayout.astro"
 tags: [AI, chatgpt, NectarGPT, AGI]
 ---
 
+<img src="https://images.unsplash.com/photo-1524514587686-e2909d726e9b?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80" alt="AI Market Size Statistics (2023)" />
+
 <h2 id="ai-market-statistics-top-picks-">AI Market Statistics (Top Picks)</h2>
 <h3 id="ai-market-size">AI Market Size</h3>
 <p>In 2023, the global AI market is valued at approximately $207.9 billion, a substantial increase of nearly 50% from 2022&#39;s $142.32 billion, and more than doubling since 2021&#39;s $95.6 billion.</p>

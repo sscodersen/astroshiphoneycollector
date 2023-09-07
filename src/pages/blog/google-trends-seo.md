@@ -9,6 +9,8 @@ layout: "@layouts/BlogLayout.astro"
 tags: [AI, chatgpt, NectarGPT, AGI]
 ---
 
+<p><img src="https://images.unsplash.com/photo-1553895501-af9e282e7fc1?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80" alt="9 Ways to Use Google Trends for SEO & Content Marketing" /></p>
+
 <p><strong>Are you taking advantage of the power of Google Trends for your SEO and content marketing efforts?</strong></p>
 <p>If not, now’s the time!</p>
 <p>In this article, we’ll discuss nine ways that you can incorporate Google Trends into your digital marketing strategy.</p>

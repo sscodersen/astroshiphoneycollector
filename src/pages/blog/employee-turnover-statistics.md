@@ -9,6 +9,8 @@ layout: "@layouts/BlogLayout.astro"
 tags: [AI, chatgpt, NectarGPT, AGI]
 ---
 
+<p><img src="https://images.unsplash.com/photo-1626863905121-3b0c0ed7b94c?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80" alt="38+ Employee Turnover Stats (2023-2027)" /></p>
+
 <h2 id="employee-attrition-over-time">Employee Attrition Over Time</h2>
 <h3 id="fluctuations-in-employee-turnover-rates">Fluctuations in Employee Turnover Rates</h3>
 <p>Employee attrition rates have experienced fluctuations over the years. In 2021, the employee turnover rate in the United States dropped to 47.2%, a decrease from the previous year. However, this figure remains higher than the rates recorded in 2019 and 2018, indicating a volatile job market.</p>

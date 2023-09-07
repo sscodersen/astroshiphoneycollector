@@ -9,6 +9,8 @@ layout: "@layouts/BlogLayout.astro"
 tags: [AI, chatgpt, NectarGPT, AGI]
 ---
 
+<p><img src="https://images.unsplash.com/photo-1593640408182-31c70c8268f5?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1442&q=80" alt="Top 8 Innovation Management Software Solutions (2023)" /></p>
+
 <h2 id="unlocking-innovation-potential-with-ideascale">Unlocking Innovation Potential with IdeaScale</h2>
 <p><strong> IdeaScale: Crowdsourcing Innovation for the Future</strong></p>
 <p>Innovation often begins with ideas, and IdeaScale excels in this regard. With IdeaScale, you can:</p>

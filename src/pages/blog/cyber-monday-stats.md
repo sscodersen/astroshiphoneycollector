@@ -9,6 +9,8 @@ layout: "@layouts/BlogLayout.astro"
 tags: [AI, chatgpt, NectarGPT, AGI]
 ---
 
+<p><img src="https://images.unsplash.com/photo-1535378273068-9bb67d5beacd?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1394&q=80" alt="The Latest Cyber Monday Statistics (2023)" /></p>
+
 <h2 id="the-power-of-cyber-monday-key-statistics">The Power of Cyber Monday: Key Statistics</h2>
 <h3 id="top-cyber-monday-statistics">Top Cyber Monday Statistics</h3>
 <p>To understand the significance of Cyber Monday, let&#39;s start with some key statistics:</p>

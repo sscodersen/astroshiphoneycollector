@@ -9,6 +9,8 @@ layout: "@layouts/BlogLayout.astro"
 tags: [AI, chatgpt, NectarGPT, AGI]
 ---
 
+<p><img src="https://images.unsplash.com/photo-1541394308149-dc8e8192162c?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1469&q=80" alt="51 Employee Productivity & Engagement Stats (2023)" /></p>
+
 <h2 id="the-complex-nature-of-productivity">The Complex Nature of Productivity</h2>
 <p>Assuming a 40-hour work week, an employee gives their company 2,000 hours of work every year. However, these 2,000 hours can manifest differently depending on various factors, such as the nature of the employee, the industry, and the organization&#39;s policies. Unlike profits and losses, productivity isn&#39;t universally quantifiable, as each company employs its own metrics for evaluation.</p>
 <h3 id="top-employee-productivity-statistics">Top Employee Productivity Statistics</h3>

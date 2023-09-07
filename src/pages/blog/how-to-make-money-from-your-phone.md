@@ -9,6 +9,8 @@ layout: "@layouts/BlogLayout.astro"
 tags: [AI, chatgpt, NectarGPT, AGI]
 ---
 
+<p><img src="https://images.unsplash.com/photo-1515606378517-3451a4fa2e12?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1528&q=80" alt="15 Legit Ways to Make Money From Your Phone" /></p>
+
 <h2 id="1-online-surveys-and-market-research">1. Online Surveys and Market Research</h2>
 <p>One of the easiest ways to make money from your phone is by participating in online surveys and market research. Companies and research firms are constantly seeking valuable feedback from consumers to improve their products and services. There are various apps and websites that connect you with these opportunities, allowing you to earn money by simply answering surveys, watching videos, or testing new products.</p>
 <h2 id="2-freelancing-opportunities">2. Freelancing Opportunities</h2>

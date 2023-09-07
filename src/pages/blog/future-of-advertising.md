@@ -9,6 +9,8 @@ layout: "@layouts/BlogLayout.astro"
 tags: [AI, chatgpt, NectarGPT, AGI]
 ---
 
+<p><img src="https://images.unsplash.com/photo-1485740112426-0c2549fa8c86?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80" alt="Future of Advertising (2023-2026)" /></p>
+
 <h3 id="leveraging-ai-for-customer-data">Leveraging AI for Customer Data</h3>
 <p>With the impending disappearance of third-party cookies, businesses must adapt to collect data from alternative sources. AI is proving invaluable in this endeavor. AI platforms and machine learning algorithms excel at making sense of unstructured data, such as social media posts, reviews, and product comments. This &quot;first-party data&quot; is self-reported, making it the most accurate form of customer information. The demand for this type of data is on the rise, as evidenced by the 8000% increase in search volume for &quot;first-party data&quot; over the past five years.</p>
 <h3 id="sprinklr-revolutionizing-social-listening">Sprinklr: Revolutionizing Social Listening</h3>

@@ -9,6 +9,8 @@ layout: "@layouts/BlogLayout.astro"
 tags: [AI, chatgpt, NectarGPT, AGI]
 ---
 
+<p><img src="https://images.unsplash.com/photo-1488590528505-98d2b5aba04b?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80" alt="Healthcare Technology: How It’s Being Used in 2023" /></p>
+
 <h2 id="the-current-state-of-healthcare-technology">The Current State of Healthcare Technology</h2>
 <p>Historically, the healthcare industry has been slow to embrace change due to its complexity, privacy regulations, and the commitment to patient safety. However, recent years have witnessed a remarkable transformation. Technologies such as Electronic Health Records (EHR), telehealth, and AI have gained widespread adoption.</p>
 <h3 id="artificial-intelligence-in-healthcare">Artificial Intelligence in Healthcare</h3>

@@ -9,6 +9,8 @@ layout: "@layouts/BlogLayout.astro"
 tags: [AI, chatgpt, NectarGPT, AGI]
 ---
 
+<p><img src="https://images.unsplash.com/photo-1507099985932-87a4520ed1d5?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80" alt="PitchBook vs. CrunchBase: Which Research Tools is Right for You?" /></p>
+
 <h2 id="pitchbook-unveiling-the-power-of-private-capital-insights">PitchBook: Unveiling the Power of Private Capital Insights</h2>
 <h3 id="pitchbook-overview">PitchBook Overview</h3>
 <p>PitchBook stands as a private capital market intelligence platform that serves as a goldmine of data, research, and news on venture capital, private equity, and mergers and acquisitions (M&amp;A). This comprehensive platform is tailored for investors, corporate development professionals, and market participants seeking to make well-informed investment decisions.</p>

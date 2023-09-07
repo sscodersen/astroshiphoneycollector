@@ -9,6 +9,8 @@ layout: "@layouts/BlogLayout.astro"
 tags: [AI, chatgpt, NectarGPT, AGI]
 ---
 
+<p><img src="https://images.unsplash.com/photo-1451187580459-43490279c0fa?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1472&q=80" alt="The Future of Social Media (2023-2026)" /></p>
+
 <h2 id="the-current-state-of-social-media">The Current State of Social Media</h2>
 <p>In 2022, users spent an average of 151 minutes per day on social media. This figure has steadily increased by approximately three minutes each year, potentially reaching 170 minutes daily by the end of the decade. The diversity of social platforms is remarkable, with the average internet user aged 16-64 using more than six different social platforms as of April 2023.</p>
 <h3 id="the-titans-of-social-media">The Titans of Social Media</h3>

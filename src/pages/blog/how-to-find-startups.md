@@ -9,6 +9,8 @@ layout: "@layouts/BlogLayout.astro"
 tags: [AI, chatgpt, NectarGPT, AGI]
 ---
 
+<p><img src="https://images.unsplash.com/photo-1486312338219-ce68d2c6f44d?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1472&q=80" alt="How to Find Startups: For Entrepreneurs, Investors, Job Seekers" /></p>
+
 <h2 id="browsing-startup-directories-h1-">Browsing Startup Directories </h2>
 <p>One common approach is to browse startup directories. Traditional &quot;trending startup&quot; lists are often subjective and may not help you discover startups before they become popular. Instead, consider using Exploding Topics, which qualifies startups as &quot;trending&quot; based on data correlated with consumer interest, such as historical Google Search volume. This approach provides a more accurate indicator of a startup&#39;s potential success.</p>
 <h3 id="utilizing-exploding-topics-filters-h2-">Utilizing Exploding Topics&#39; Filters </h3>

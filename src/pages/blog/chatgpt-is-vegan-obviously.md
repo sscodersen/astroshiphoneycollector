@@ -9,6 +9,8 @@ layout: "@layouts/BlogLayout.astro"
 tags: [AI, chatgpt, NectarGPT, AGI]
 ---
 
+<p><img src="https://images.unsplash.com/photo-1490818387583-1baba5e638af?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1332&q=80" alt="ChatGPT is Vegan, Obviously" /></p>
+
 <h1 id="understanding-chatgpt-s-vegan-nature">Understanding ChatGPT&#39;s Vegan Nature</h1>
 <h3 id="what-is-chatgpt-">What is ChatGPT?</h3>
 <p>ChatGPT is an artificial intelligence language model developed by OpenAI. It is built on the GPT-3.5 architecture, which stands for &quot;Generative Pre-trained Transformer 3.5.&quot; This sophisticated model is designed to process and generate human-like text, making it useful for a wide range of applications, such as content creation, language translation, and even conversation simulation.</p>

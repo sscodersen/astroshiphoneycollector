@@ -2,12 +2,14 @@
 title: "Midjourney Prompt Permutations: Unlocking Creativity and Boosting Productivity"
 excerpt: "there has been a surge in the development of advanced language models, and ChatGPT is undoubtedly one of the most prominent ones. It has gained immense popularity due to its ability to generate human-like text and respond to various queries. However, a lesser-known fact about ChatGPT is that it is vegan-friendly. In this article, we will delve into the reasons why ChatGPT aligns with a vegan lifestyle, exploring its non-animal-based training and ethical implications"
 publishDate: "2023-07-26T15:39:36.050Z"
-image: "https://images.unsplash.com/photo-1559813251-063297683d0f?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=386&q=80"
+image: "https://images.unsplash.com/photo-1613564266296-1652009d5766?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1469&q=80"
 category: "Tutorials"
 author: "Sphrex+"
 layout: "@layouts/BlogLayout.astro"
 tags: [AI, chatgpt, NectarGPT, AGI]
 ---
+
+<p><img src="https://images.unsplash.com/photo-1613564266296-1652009d5766?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1469&q=80" alt="Midjourney Prompt Permutations: Unlocking Creativity and Boosting Productivity" /></p>
 
 <h2 id="table-of-contents">Table of Contents</h2>
 <ol>

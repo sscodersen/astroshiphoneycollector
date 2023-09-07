@@ -9,6 +9,8 @@ layout: "@layouts/BlogLayout.astro"
 tags: [AI, chatgpt, NectarGPT, AGI]
 ---
 
+<p><img src="https://images.unsplash.com/photo-1496065187959-7f07b8353c55?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80" alt="The Future of Transportation" /></p>
+
 <h2 id="the-future-of-electric-cars">The Future Of Electric Cars</h2>
 <p>With rising environmental concerns and growing consumer demand, the electric vehicle (EV) market is on the verge of a significant breakthrough. The Biden administration&#39;s commitment to making half of all new vehicles sold in 2030 electric has garnered support from major manufacturers like GM, Ford, and Chrysler. As search volume for &quot;sustainable transportation&quot; surges, a 2023 Deloitte survey reveals that 36% of Americans plan to opt for EVs in their next vehicle purchase. Lower fuel costs and reduced emissions are driving this shift. Bloomberg predicts that EVs will constitute 25% of new car sales by the end of 2025, signaling a rapid transition.</p>
 <h2 id="the-future-of-ev-infrastructure">The Future Of EV Infrastructure</h2>

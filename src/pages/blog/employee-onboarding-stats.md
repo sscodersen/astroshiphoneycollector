@@ -9,6 +9,8 @@ layout: "@layouts/BlogLayout.astro"
 tags: [AI, chatgpt, NectarGPT, AGI]
 ---
 
+<p><img src="https://images.unsplash.com/photo-1603539947678-cd3954ed515d?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80" alt="70+ Employee Onboarding Statistics (2023)" /></p>
+
 <h2 id="the-foundation-of-success-effective-onboarding">The Foundation of Success: Effective Onboarding</h2>
 <p>A rushed onboarding process can lead to new hires feeling lost in their role, burning out, and quickly seeking opportunities elsewhere. On the other hand, ongoing, supportive onboarding can help new hires quickly become key assets within an organization.</p>
 <h3 id="-top-employee-onboarding-statistics-"><strong>Top Employee Onboarding Statistics</strong></h3>

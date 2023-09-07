@@ -9,6 +9,8 @@ layout: "@layouts/BlogLayout.astro"
 tags: [AI, chatgpt, NectarGPT, AGI]
 ---
 
+<p><img src="https://images.unsplash.com/photo-1570514865384-ce571ff92db2?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1332&q=80" alt="GPT-4s views on politicians" /></p>
+
 <h2 id="table-of-contents">Table of Contents</h2>
 <ol>
 <li><strong>Understanding GPT-4: The Next Evolution in AI</strong></li>

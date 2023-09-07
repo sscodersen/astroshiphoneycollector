@@ -2,12 +2,14 @@
 title: "DALL-E 2 plus upscaling for free"
 excerpt: "In recent years, artificial intelligence has been making significant strides in various fields, and one such remarkable advancement is OpenAI&#39;s DALL-E 2, an impressive AI model capable of generating stunning and unique images from textual prompts. This revolutionary technology has opened up new possibilities for artists, designers, and content creators by allowing them to explore their imagination and bring their ideas to life. In this article, we will delve into the incredible world of DALL-E 2 and learn how it can be combined with upscaling techniques to unlock even more creative potential, all without spending a penny"
 publishDate: "2023-07-24T15:39:36.050Z"
-image: "https://images.unsplash.com/photo-1677442135730-64f105e0ea05?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1032&q=80"
+image: "https://images.unsplash.com/photo-1535378273068-9bb67d5beacd?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1394&q=80"
 category: "Tutorials"
 author: "Sphrex+"
 layout: "@layouts/BlogLayout.astro"
 tags: [AI, chatgpt, NectarGPT, AGI]
 ---
+
+<p><img src="https://images.unsplash.com/photo-1464446066817-4116494586bb?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80" alt="DALL-E 2 plus upscaling for free" /></p>
 
 <h2 id="-understanding-dall-e-2-a-creative-powerhouse-"><strong>Understanding DALL-E 2: A Creative Powerhouse</strong></h2>
 <h3 id="-what-is-dall-e-2-"><strong>What is DALL-E 2?</strong></h3>
