@@ -25,9 +25,6 @@ tags: [AI, chatgpt, NectarGPT, AGI]
 <h2 id="2-discover-keywords-on-exploding-topics">2. Discover Keywords On Exploding Topics</h2>
 <h3 id="uncover-emerging-trends">Uncover Emerging Trends</h3>
 <p>Exploding Topics offers a treasure trove of data on potential keywords, with over 13,000 keywords categorized across various industries. It identifies trends based on Google Search volume, ensuring you have access to keywords with real business value. Search by category to find new keywords or validate existing ones.</p>
-
-<img src="https://images.unsplash.com/photo-1542062700-9b61ccbc1696?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80" alt="How to Find Trending Keywords for SEO" />
-
 <h3 id="stay-ahead-of-the-curve">Stay Ahead of the Curve</h3>
 <p>If you already have a keyword in mind, simply type it into the search bar, and Exploding Topics will provide related trends. Refine your search by date range to distinguish emerging trends from short-lived fads. This tool excels at identifying trends before they become mainstream.</p>
 <h2 id="3-keep-a-close-eye-on-social-media">3. Keep A Close Eye On Social Media</h2>
@@ -39,9 +36,6 @@ tags: [AI, chatgpt, NectarGPT, AGI]
 <h3 id="real-time-keyword-discovery">Real-Time Keyword Discovery</h3>
 <p>Reddit is a goldmine for real-time keyword discovery. Explore relevant subreddits and sort comments by &quot;hot,&quot; &quot;top,&quot; or &quot;rising&quot; while adjusting the date range. Look for recurring keywords in conversations, as these are likely what your target audience is searching for on Google.</p>
 <h3 id="explore-with-keyworddit">Explore With Keyworddit</h3>
-
-<img src="https://images.unsplash.com/photo-1560243563-062bfc001d68?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80" alt="How to Find Trending Keywords for SEO" />
-
 <p>Keyworddit is a valuable tool tailored to Reddit. It provides insights into popular keywords and their search volumes within specific subreddits. While it may not have extensive functionality, it&#39;s a great resource for brainstorming and uncovering keywords you may have overlooked.</p>
 <h2 id="5-pay-attention-to-current-events">5. Pay Attention To Current Events</h2>
 <h3 id="capitalize-on-news-and-pop-culture">Capitalize on News and Pop Culture</h3>
