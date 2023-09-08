@@ -11,9 +11,6 @@ tags: [AI, chatgpt, NectarGPT, AGI]
 
 <img src="https://images.unsplash.com/photo-1523275335684-37898b6baf30?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1399&q=80" alt="Apple's Secret Endeavor: Unveiling Apple GPT, a Groundbreaking AI Innovation" />
 
-<h1 id="we-have-built-a-unique-app-for-prompt-engineers">We have built a unique app for Prompt Engineers</h1>
-<p>We have built an unique app for Prompt Engineers where you can Create, Sell your Prompts, and offer clients AI tools in it. It&#39;s subscription-based, and you can find it <a href="https://gptdomaine.gumroad.com/l/promptsaas">here</a> and its demo test version: <a href="https://gptdomaine.gumroad.com/l/promptsaas">https://gptdomaine.gumroad.com/l/promptsaas</a></p>
-<hr>
 <p><strong>The Emergence of “Apple GPT”</strong>
 Apple has been diligently working on an artificial intelligence (AI) tool internally named “Apple GPT,” similar to popular AI language models like OpenAI’s ChatGPT. This article explores the development, potential applications, and how it fits into Apple’s AI strategy.</p>
 <h2 id="special-approval-and-privacy-focus">Special Approval and Privacy Focus</h2>
