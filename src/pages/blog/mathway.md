@@ -1,7 +1,7 @@
 ---
 title: "Mathway Math Problem Solver"
 excerpt: "Mathway is one of the most useful free calculator app that offers instant answers to the users most complex math equations. The app practically solves anything from basic math problems, geometry, algebra to more complex calculus equations and trigonometry. Mathway is an app as well as a website and are compatible with browsers, iPhone, iPad, and Android devices."
-publishDate: "2023-09-07T15:39:36.050Z"
+publishDate: "2023-09-09T15:39:36.050Z"
 image: "https://images.unsplash.com/photo-1608792992053-f397e328a56d?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1374&q=80"
 category: "Trending"
 author: "Sphrex+"
