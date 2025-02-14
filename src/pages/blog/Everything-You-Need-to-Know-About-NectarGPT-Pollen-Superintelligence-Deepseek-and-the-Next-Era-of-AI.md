@@ -2,7 +2,7 @@
 title: "Everything You Need to Know About NectarGPT, Pollen, Superintelligence, Deepseek, and the Next Era of AI"
 excerpt: "superintelligence is here Everything You Need to Know About NectarGPT, Pollen, Superintelligence, Deepseek, and the Next Era of AI"
 publishDate: "2025-02-14T15:39:36.050Z"
-image: "https://unsplash.com/photos/a-snow-covered-mountain-range-with-a-clear-blue-sky-5helRuJ9chA"
+image: "https://images.unsplash.com/photo-1739036462754-6e86520998a2?q=80&w=1475&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
 category: "Trending"
 author: "Sphrex+"
 layout: "@layouts/BlogLayout.astro"
