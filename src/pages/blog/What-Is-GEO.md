@@ -9,7 +9,7 @@ layout: "@layouts/BlogLayout.astro"
 tags: [Trending]
 ---
 
-<img src="https://images.unsplash.com/photo-1618316570242-224f96ec6db8?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MjB8fEdFT3xlbnwwfHwwfHx8MA%3D%3D" alt="Generative Engine Optimization AI SEO concept visual" />
+<img src="https://unsplash.com/photos/a-mountain-with-a-very-tall-building-on-top-of-it-zhVN71I8888" alt="Generative Engine Optimization AI SEO concept visual" />
 
 <h1 id="what-is-geo-and-why-it-matters-in-2025">What Is GEO and Why It Matters in 2025 (Generative Engine Optimization)</h1>
 
