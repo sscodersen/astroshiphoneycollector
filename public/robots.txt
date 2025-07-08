@@ -2,3 +2,21 @@ User-agent: *
 Allow: /
 
 Sitemap: https://blog.nectarhub.xyz/sitemap-0.xml
+
+User-agent: ChatGPT-User
+Allow: /
+
+Sitemap: https://blog.nectarhub.xyz/sitemap-0.xml
+
+
+User-agent: GPTBot
+Allow: /
+
+Sitemap: https://blog.nectarhub.xyz/sitemap-0.xml
+
+
+User-agent: Google-Extended
+Allow: /
+
+Sitemap: https://blog.nectarhub.xyz/sitemap-0.xml
+
