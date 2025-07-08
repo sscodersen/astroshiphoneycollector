@@ -9,7 +9,7 @@ layout: "@layouts/BlogLayout.astro"
 tags: [Trending]
 ---
 
-<<img src="https://images.unsplash.com/photo-1704831828897-812c4c90aa13?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTJ8fGFpJTIwaW1hZ2UlMjBlbmhhbmNlcnN8ZW58MHx8MHx8fDA%3D" alt="TensorPix AI image and video enhancer interface showing before and after comparison" />
+<img src="https://images.unsplash.com/photo-1704831828897-812c4c90aa13?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTJ8fGFpJTIwaW1hZ2UlMjBlbmhhbmNlcnN8ZW58MHx8MHx8fDA%3D" alt="TensorPix AI image and video enhancer interface showing before and after comparison" />
 
 <h1 id="ultimate-tensorpix-ai-enhancer-review">Ultimate TensorPix AI Enhancer Review (2025): Image & Video Magic</h1>
 
