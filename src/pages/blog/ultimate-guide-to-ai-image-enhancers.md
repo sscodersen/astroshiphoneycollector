@@ -1,5 +1,5 @@
 ---
-title: "ultimate-guide-to-ai-image-enhancers"
+title: "ultimate guide to ai image enhancers"
 excerpt: "An **AI image enhancer** is a tool powered by deep learning that can upscale resolution, remove noise, sharpen details, and improve colors in photos. Unlike traditional filters that apply preset adjustments, AI enhancers **learn from vast image datasets** to predict and generate missing pixel details accurately."
 publishDate: "2025-07-08T15:39:36.050Z"
 image: "https://images.unsplash.com/photo-1683995667087-d10406a78b60?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTZ8fGFpJTIwaW1hZ2UlMjBlbmhhbmNlcnN8ZW58MHx8MHx8fDA%3D"
