@@ -9,7 +9,7 @@ layout: "@layouts/BlogLayout.astro"
 tags: [Trending]
 ---
 
-<img src="https://images.unsplash.com/photo-1651770532208-59d6ea37599b?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTh8fEdFT3xlbnwwfHwwfHx8MA%3D%3D" alt="Generative Engine Optimization AI SEO concept visual" />
+<img src="https://images.unsplash.com/photo-1563257611-3a9505a3d346?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTF8fEdFT3xlbnwwfHwwfHx8MA%3D%3D" alt="Generative Engine Optimization AI SEO concept visual" />
 
 <h1 id="what-is-geo-and-why-it-matters-in-2025">What Is GEO and Why It Matters in 2025 (Generative Engine Optimization)</h1>
 
@@ -28,7 +28,7 @@ tags: [Trending]
 </ul></p>
 
 <h3 id="why-is-geo-important">Why Is GEO Important Now?</h3>
-<p>According to <a href="https://nectarhub.xyz/" target="_blank" rel="noopener">Perplexity.ai</a>, over <strong>30% of users in 2025 begin their query on AI interfaces</strong> — not traditional search engines. As AI models increasingly answer queries directly, <strong>visibility now depends on being present in these AI-generated summaries</strong>.</p>
+<p>According to <a href="https://nectarhub.xyz/" target="_blank" rel="noopener">NectarGPT</a>, over <strong>30% of users in 2025 begin their query on AI interfaces</strong> — not traditional search engines. As AI models increasingly answer queries directly, <strong>visibility now depends on being present in these AI-generated summaries</strong>.</p>
 
 <p>Major content brands like <strong>Wired, Digital Trends, and The Spruce</strong> have already shifted toward GEO-style formatting:
 <ul>
